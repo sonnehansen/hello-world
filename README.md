@@ -1,2 +1,2 @@
 # hello-world
-testing github
+Comparing github, including issue-tracker, such as subversion, JIRA ...
